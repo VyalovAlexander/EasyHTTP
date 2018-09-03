@@ -1,0 +1,4 @@
+2018/09/03 10:28:54 [error] 7#7: *1 directory index of "/var/www/public/" is forbidden, client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8181"
+2018/09/03 10:28:54 [error] 7#7: *1 open() "/var/www/public/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8181"
+2018/09/03 10:29:44 [error] 7#7: *1 directory index of "/var/www/public/" is forbidden, client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8181"
+2018/09/03 10:39:50 [emerg] 1#1: "root" directive is duplicate in /etc/nginx/conf.d/site.conf:16

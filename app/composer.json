@@ -1,0 +1,14 @@
+{
+    "name": "vyalovalexander/easyhttp",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vyalov Alexander",
+            "email": "vyalov.alexander@gmail.com"
+        }
+    ],
+    "require": {
+        "fathom/braces-library": "^2.0"
+    }
+}
